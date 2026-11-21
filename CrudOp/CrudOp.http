@@ -1,0 +1,6 @@
+@CrudOp_HostAddress = http://localhost:5152
+
+GET {{CrudOp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
